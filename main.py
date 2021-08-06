@@ -1,2 +1,6 @@
 # This is a sample Python script.
-print("Hello world")
+def main(msg):
+    print(msg)
+
+
+main("Hello people")
